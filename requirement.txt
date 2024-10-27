@@ -22,3 +22,14 @@ sentence_transformers
 PyPDF2
 langchain-objectbox
 langchain
+docarray
+pydantic==1.10.9
+langchain[docarray]
+langchain_pinecone
+pytube
+tiktoken 
+pinecone-client
+scikit-learn
+ruff
+git+https://github.com/openai/whisper.git
+langchain-ollama
